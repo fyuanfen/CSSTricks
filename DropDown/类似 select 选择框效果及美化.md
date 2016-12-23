@@ -1,7 +1,3 @@
-# CSSTricks
-收集一些有用的CSS组件
-
-
 
 # select 选择框效果及美化
 
