@@ -13,4 +13,6 @@
 
 [代码Demo](https://github.com/fyuanfen/CSSTricks/tree/master/DropDown)
 
+[参考资料](http://www.cnblogs.com/LY-leo/p/5756367.html)
+
 
